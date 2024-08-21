@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #ffe5b8;;
+}
+div{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin:50px;
+}
+.portada img{
+  width: 500px;
+  
+}
+.titulo p{
+  font-size: 50px;
+  font-family: 'Bebas Neue';
+  color: #324339;
+}
+.enlace p{
+  font-size: 30px;
+  font-family: 'lobster';
+  color: #324339;
+}
+.subtitulo p{
+  font-size: 30px;
+  font-family: 'comic sans ms';
+  color: #747675;
+}
+.explicacion p{
+  font-size: 20px;
+  font-family: 'comic sans ms';
+  color: #747675;
+  margin:20px;
+  text-align: justify;
+}
+.explicacion img{
+  height: 300px;
+}
